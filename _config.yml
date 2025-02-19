@@ -51,6 +51,7 @@ plugins:
 
 include:
   - assets/images/
+  - app-ads.txt
 #
 exclude:
 #   - .sass-cache/
