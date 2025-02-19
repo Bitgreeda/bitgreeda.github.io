@@ -29,10 +29,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  bitgreeda
 
+
+# GitHub repository 설정 추가
+repository: bitgreeda/bitgreeda.github.io
+
 # Build settings
 theme: jekyll-theme-primer
 plugins:
-  - jekyll-feed  
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
