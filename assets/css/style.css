@@ -1,0 +1,23 @@
+---
+---
+
+/* 사용자 정의 스타일 */
+
+/* 이미지 전체 폭 설정 */
+.full-width-image {
+  width: 100% !important;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* 커스텀 텍스트 스타일 */
+body .title-text {
+  font-size: 3.2em;
+  text-align: center;
+  margin-top: 2em;
+}
+
+body {
+  background-color: yellow;
+}
